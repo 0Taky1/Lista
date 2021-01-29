@@ -121,7 +121,7 @@ https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
 #EXTINF:-1 group-title="Deportivos" tvg-chno="40" tvg-id="40" tvg-logo=" ",
 
 
-#EXTINF:-1 group-title="Generalistas" tvg-chno="41" tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniSTDQjJb2Rs43G8420xzEo6w8o2lgSn4j1w5ZG=s100-c-k-c0x00ffffff-no-rj",mtmad
+#EXTINF:-1 group-title="Generalistas" tvg-chno="41" tvg-id="" tvg-logo="https://www.neeo.es/wp-content/uploads/2016/12/logo-mtmad.jpg",mtmad
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 
