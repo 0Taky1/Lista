@@ -263,13 +263,13 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-chno="20" tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200",Atreseries
 
 
-#EXTINF:-1 group-title="Generalistas" tvg-chno="21" tvg-id="DKISS.TV" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200",DKiss
+#EXTINF:-1 group-title="Generalistas" tvg-chno="21" tvg-id="DKISS.TV" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200", DKiss
 http://91.126.141.201:1935/live/kiss/.m3u8
 
 #EXTINF:-1 group-title="Generalistas" tvg-chno="22" tvg-id="TEN.TV" tvg-logo="https://graph.facebook.com/televisionten/picture?width=200&height=200", Ten
 
 
-#EXTINF:-1 group-title="Generalistas" tvg-chno="23" tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200",Be Mad
+#EXTINF:-1 group-title="Generalistas" tvg-chno="23" tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200", Be Mad
 https://linear02-i.akamaihd.net/hls/live/837815/bemad/03.m3u8
 
 #EXTINF:-1 group-title="Deportivos" tvg-chno="24" tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200", Real Madrid Tv
