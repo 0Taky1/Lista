@@ -30,7 +30,7 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 group-title="Generalistas" tvg-chno="10" tvg-id="Mega.TV" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega
 
 
-#EXTINF:-1 group-title="Generalistas" tvg-chno="11" tvg-id="DMax.TV" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200",Dmax
+#EXTINF:-1 group-title="Generalistas" tvg-chno="11" tvg-id="DMax.TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dmax_uk.jpg",Dmax
 http://91.126.141.12:1935/live/discoverymax/.m3u8
 
 #EXTINF:-1 group-title="Autonómicas" tvg-chno="12" tvg-id="TPA.TV" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200", TPA
