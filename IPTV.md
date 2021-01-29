@@ -108,7 +108,7 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1 group-title="Autonómicas" tvg-chno="36" tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportivos" tvg-chno="37" tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",ETB Deportes
+#EXTINF:-1 group-title="Deportivos" tvg-chno="37" tvg-id="ETBD.TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eitb_etb_sat.jpg",ETB Deportes
 https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
 
 #EXTINF:-1 group-title="Deportivos" tvg-chno="38" tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200",E3
